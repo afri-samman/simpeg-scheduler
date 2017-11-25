@@ -6,7 +6,8 @@
 	"authors": [
 		{
 			"name": "bantenprov",
-			"role": "beveloper.bantenprov@gmail.com"
+			"role": "beveloper.bantenprov@gmail.com",
+			"homepage": "https://github.com/bantenprov/",
 		}
 	],
 	"license": "MIT",
