@@ -21,3 +21,7 @@ List data yang akan diproses:
 - /rekap_pegawai/pangkat/1 dst... (Golongan 1, 2, 3, & 4)
 - /rekap_pegawai/usia/20 dst... (Usia 20 tahun, 21 tahun dst...)
 - /rekap_pegawai/ipensiun/
+
+## INSTALL
+
+Please see the [installation section](https://codeigniter.com/user_guide/installation/index.html) of the CodeIgniter User Guide.
