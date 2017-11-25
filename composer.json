@@ -1,6 +1,6 @@
 {
 	"description": "Simpeg scheduller repository",
-	"name": "bantenprov/simpeg-api",
+	"name": "bantenprov/simpeg-scheduler",
 	"type": "library",
 	"homepage": "https://github.com/bantenprov/simpeg-scheduler",
 	"authors": [
